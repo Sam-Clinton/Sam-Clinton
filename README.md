@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sam-Clinton
 - 👀 I’m interested in ... Designing and Development
-- 🌱 I’m currently learning ... React JS, FireBase, Tailwind CSS
+- 🌱 I’m currently working as ... Freelancer
 - 📫 How to reach me ... www.linkedin.com/in/sam-clinton
 
 <!---
